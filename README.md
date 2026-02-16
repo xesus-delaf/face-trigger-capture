@@ -20,10 +20,3 @@ This project explores the intersection of **Geometry-based Computer Vision** and
 * **Geometric Triggers:** Mathematical calculation of "aperture" for mouth/eyes.
 * **Auto-Save System:** Automatic file naming with timestamps and cooldown logic.
 * **Robust Architecture:** Modular code structure following PEP8 standards and OOP principles.
-
-## 🛠 Installation & Usage
-
-### 1. Clone the repository
-```bash
-git clone [https://github.com/your-username/face-trigger-capture.git](https://github.com/your-username/face-trigger-capture.git)
-cd face-trigger-capture
