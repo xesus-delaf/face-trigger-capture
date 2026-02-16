@@ -12,7 +12,7 @@ An intelligent computer vision script that uses **MediaPipe Face Mesh** to detec
 
 This project explores the intersection of **Geometry-based Computer Vision** and User Interaction. Instead of using heavy deep learning models for classification, it utilizes 3D facial landmarks to calculate Euclidean distances between specific points on the human face, making it extremely lightweight and fast for edge devices.
 
-![Project Demo](face-trigger-capture/assets/demo.gif)
+![Project Demo](assets/demo.gif)
 
 ## 🚀 Key Features
 
